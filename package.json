@@ -11,8 +11,7 @@
     "gulp-babel": "^6.1.2",
     "gulp-less": "^3.0.3",
     "gulp-notify": "^3.0.0",
-    "gulp-uglify": "^2.1.2",
-    "jshint": "^2.9.4"
+    "gulp-uglify": "^2.1.2"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
